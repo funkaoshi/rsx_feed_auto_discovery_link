@@ -1,0 +1,40 @@
+# rsx_feed_auto_discovery_link v0.1
+# Generate ATOM or RSS Feed Auto-discovery links.
+# Ramanan Sivaranjan
+# http://funkasohi.com/
+
+# ......................................................................
+# This is a plugin for Textpattern - http://textpattern.com/
+# To install: textpattern > admin > plugins
+# Paste the following text into the 'Install plugin' box:
+# ......................................................................
+
+YTo5OntzOjc6InZlcnNpb24iO3M6MzoiMC4xIjtzOjY6ImF1dGhvciI7czoxODoiUmFtYW5h
+biBTaXZhcmFuamFuIjtzOjEwOiJhdXRob3JfdXJpIjtzOjIxOiJodHRwOi8vZnVua2Fzb2hp
+LmNvbS8iO3M6MTE6ImRlc2NyaXB0aW9uIjtzOjQ3OiJHZW5lcmF0ZSBBVE9NIG9yIFJTUyBG
+ZWVkIEF1dG8tZGlzY292ZXJ5IGxpbmtzLiI7czo0OiJ0eXBlIjtpOjA7czo0OiJuYW1lIjtz
+OjI4OiJyc3hfZmVlZF9hdXRvX2Rpc2NvdmVyeV9saW5rIjtzOjQ6ImhlbHAiO3M6NDY2OiIK
+CTxwPjxoMj48dHhwOnJzeF9mZWVkX2F1dG9fZGlzY292ZXJ5X2xpbmsgLz48L2gyPjxiciAv
+Pgo8cD5UaGlzIHBsdWdpbiB3aWxsIHByb2R1Y2UgYXVkby1kaXNjb3ZlcnkgZmVlZCBsaW5r
+cy4gIFRoZXJlIGFyZSB0d28gcGFyYW1ldGVyczogIDwvcD48YnIgLz4KPHVsPjxiciAvPgo8
+bGk+PGNvZGU+c21hcnQ8L2NvZGU+ICYjODIxMTsgdGhpcyBjYW4gZXF1YWwgMSBvciAwLiAg
+SWYgaXQgaXMgMSwgdGhlbiB0aGUgZmVlZCBsaW5rcyB3aWxsIGJlIHNlY3Rpb24gYW5kIGNh
+dGVnb3J5IGF3YXJlLjwvbGk+PGJyIC8+CjxsaT48Y29kZT5mbGF2b3VyPC9jb2RlPiAmIzgy
+MTE7IHRoaXMgY2FuIGVxdWFsICYjODIxNjtyc3MmIzgyMTc7IG9yICYjODIxNjthdG9tJiM4
+MjE3Oy4gIFRoaXMgaXMgaG93IHlvdSBzZXQgd2hhdCBzb3J0IG9mIGZlZWQgbGluayB0byBw
+cm9kdWNlLjwvbGk+PGJyIC8+CjwvdWw+PC9wPgoKCgogIjtzOjQ6ImNvZGUiO3M6NzI3OiJm
+dW5jdGlvbiByc3hfZmVlZF9hdXRvX2Rpc2NvdmVyeV9saW5rKCRhdHRzKQp7CglnbG9iYWwg
+JGMsICRzLCAkc2l0ZW5hbWUsICRsaW1pdDsKCWV4dHJhY3QobEF0dHMoYXJyYXkoJ3NtYXJ0
+JyA9PiAwLCAnZmxhdm91cicgPT4gJ3JzcycpLCRhdHRzKSk7CgoJJHRpdGxlID0gJHNpdGVu
+YW1lOwoJJHVybCA9ICcnOwoJaWYgKCRzbWFydCkKCXsKCQkkc2VjdGlvbiA9ICcnOwoJCWlm
+ICggaXNzZXQoJHMpICYmICFlbXB0eSgkcykgJiYgJHMgIT0gJ2RlZmF1bHQnICkKCQl7CgkJ
+CSRzZWN0aW9uID0gJHM7CgkJCSR0aXRsZSAuPSAnIC0gJy4kczsKCQl9CgkJJGNhdGVnb3J5
+ID0gJyc7CgkJaWYgKCBpc3NldCgkYykgJiYgIWVtcHR5KCRjKSApCgkJewoJCQkkY2F0ZWdv
+cnkgPSAkYzsKCQkJJHRpdGxlIC49ICcgLSAnLiRjOwoJCX0KCQkkdXJsID0gcGFnZWxpbmt1
+cmwoYXJyYXkoJ2NhdGVnb3J5Jz0+JGNhdGVnb3J5LCAnc2VjdGlvbic9PiAkc2VjdGlvbiwg
+J2xpbWl0Jz0+JGxpbWl0LCAkZmxhdm91cj0+JzEnKSk7Cgl9CgllbHNlCgl7CgkJJHVybCA9
+IHBhZ2VsaW5rdXJsKGFycmF5KCdsaW1pdCc9PiRsaW1pdCwgJGZsYXZvdXI9PicxJykpOwoJ
+fQoKCXJldHVybiAnPGxpbmsgcmVsPSJhbHRlcm5hdGUiIHR5cGU9ImFwcGxpY2F0aW9uLycu
+JGZsYXZvdXIuJyt4bWwiIHRpdGxlPSInLiR0aXRsZS4nICgnLiRmbGF2b3VyLicgZmVlZCki
+IGhyZWY9IicuJHVybC4nIiAvPic7Cn0KIjtzOjM6Im1kNSI7czozMjoiM2YyNWFhNmU0NjI5
+ODlmMTA5YWZjYTBkZGExMTcxZTkiO30=

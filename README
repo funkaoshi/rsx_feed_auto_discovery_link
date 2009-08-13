@@ -1,0 +1,7 @@
+This plugin will generate the auto-discovery links that you place in the head section of your HTML document. These are what feed-readers use to find the feeds available at your site. This plugin lets you specify whether you want the feeds to be “smart” (aware of what section and category they are in) or not. You can download the plugin here.
+
+This plugin will produce audo-discovery feed links. There are two parameters:
+
+  * smart – this can equal 1 or 0. If it is 1, then the feed links will be section and category aware.
+  * flavour – this can equal ‘rss’ or ‘atom’. This is how you set what sort of feed link to produce.
+  
